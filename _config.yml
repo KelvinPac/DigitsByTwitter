@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: "https://github.com/KelvinPac/DigitsByTwitter/blob/master/device-2017-01-22-225734.png"
+    values:
+      image: true
